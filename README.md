@@ -1,2 +1,2 @@
 # StackOffload
-A Chrome extension for streaming stackoverflow questions as push notifications based on user preferences 
+A simple web application for streaming Stack Overflow questions based on preferred tags as push notifications
