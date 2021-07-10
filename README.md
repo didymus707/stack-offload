@@ -26,6 +26,7 @@ Users can install the chrome extension to view streaming information for each qu
     - Being able to build their reputation in a particular domain
     - Being able to earn SE reputation fast.   
 <br />
+
 - For the community
   - Questions are answered fast.
   - Trust and the credibility of the community increases.
