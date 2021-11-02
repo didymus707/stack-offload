@@ -33,7 +33,8 @@ Users can install the chrome extension to view streaming information for each qu
 
 ## Technologies used
 
-- Front-end: React.js, Chakra UI
+- Front-end: React.js, Material UI
 - Chrome extension: HTML, CSS, JavaScript
-- Back-end: Serverless framework, Google Cloud Functions, Node.js
+- Back-end: Node.js, Express.js, Redis
+- Database: MongoDB
 - Testing: React-testing-library
